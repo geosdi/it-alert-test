@@ -1,6 +1,17 @@
 {
   "regions": [
-    "toscana",
-    "sardegna"
-  ]
+    "sardegna",
+    "toscana"
+  ],
+  "features" :[
+        "senderName",
+        "description",
+        "instruction",
+        "event",
+        "sent",
+        "expires",
+        "web",
+        "sender",
+        "identifier"
+    ]
 }
