@@ -1,7 +1,7 @@
 {
   "regions": [
-    "sardegna",
-    "toscana"
+    "toscana",
+    "sardegna"
   ],
   "features" :[
         "senderName",
