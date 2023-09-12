@@ -30,8 +30,8 @@
         "value" : "Campania 2023-09-12"
       } ],
       "effective" : "2023-07-07T10:00:36.000+00:00",
-      "onset" : "2023-07-07T10:00:36.000+00:00",
-      "expires" : "2023-07-07T10:00:36.000+00:00",
+      "onset" : "2023-09-12T12:00:32+02:00",
+      "expires" : "2023-09-12T12:00:32+02:00",
       "senderName" : "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile",
       "headline" : "IT-alert test pubblico - regione Campania - 12/09/2023",
       "description" : "IT-alert test pubblico - regione Calabria - 12/09/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.",
